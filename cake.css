@@ -1,0 +1,41 @@
+
+    h1{
+      text-shadow: 5px 2px 19px #8f0866;
+      text-align: center;
+      font-size: 40px;
+    }
+    .parallax1 {
+      background-image: url('https://cakebycourtney.com/wp-content/uploads/2018/02/IMG_2311.jpg'); /*https://i0.hdslb.com/bfs/album/4fe497734fb28f6fbbeff4ef344521107d3f21a1.jpg */
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 80%;
+      background-position: center;
+      height: 500px;
+    }
+    .parallax2 {
+      background-image: url('https://2.bp.blogspot.com/-2yybSGVs-Dw/WmPlq1lUU3I/AAAAAAAAXDQ/Tf0UYy7zjYoSRVEB4f1Zz8GFj-3SHE0xQCLcBGAs/s1600/unicorn_cupcake_vegan.jpg'); /*https://i0.hdslb.com/bfs/album/4fe497734fb28f6fbbeff4ef344521107d3f21a1.jpg */
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 80%;
+      background-position: center;
+      height: 500px;
+    }
+    body{
+      background-image: linear-gradient(#aca5a8,#f5cee3); /*#FFFFCC */
+      background-blend-mode:normal;
+    }
+    .sansserif {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .contenr{
+      max-width:960px ;
+      margin: auto;
+      padding:25px ;
+      font-size : 24px;
+      background-color:  linear-gradient(top #99CCFF,#FF99FF);
+      
+    }
+    
+    
+    
+    
